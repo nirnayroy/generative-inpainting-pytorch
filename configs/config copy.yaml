@@ -1,5 +1,5 @@
 # data parameters
-dataset_name: imagenet
+dataset_name: cmb
 data_with_subfolder: True
 train_data_path: /media/ouc/4T_A/datasets/ImageNet/ILSVRC2012_img_train/
 val_data_path:
